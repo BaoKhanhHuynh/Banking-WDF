@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Bank-System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FAA7708-C2E9-4516-93EB-5FC3BDDB8695}|Bank-System\\Bank-System.csproj|c:\\bank-system\\bank-system\\views\\_transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FAA7708-C2E9-4516-93EB-5FC3BDDB8695}|Bank-System\\Bank-System.csproj|solutionrelative:bank-system\\views\\_transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FAA7708-C2E9-4516-93EB-5FC3BDDB8695}|Bank-System\\Bank-System.csproj|c:\\bank-system\\bank-system\\views\\accountview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FAA7708-C2E9-4516-93EB-5FC3BDDB8695}|Bank-System\\Bank-System.csproj|solutionrelative:bank-system\\views\\accountview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FAA7708-C2E9-4516-93EB-5FC3BDDB8695}|Bank-System\\Bank-System.csproj|c:\\bank-system\\bank-system\\views\\branchview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FAA7708-C2E9-4516-93EB-5FC3BDDB8695}|Bank-System\\Bank-System.csproj|solutionrelative:bank-system\\views\\branchview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Transaction.cs [Design]",
+              "DocumentMoniker": "C:\\Bank-System\\Bank-System\\Views\\_Transaction.cs",
+              "RelativeDocumentMoniker": "Bank-System\\Views\\_Transaction.cs",
+              "ToolTip": "C:\\Bank-System\\Bank-System\\Views\\_Transaction.cs [Design]",
+              "RelativeToolTip": "Bank-System\\Views\\_Transaction.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:18:16.979Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountView.cs [Design]",
+              "DocumentMoniker": "C:\\Bank-System\\Bank-System\\Views\\AccountView.cs",
+              "RelativeDocumentMoniker": "Bank-System\\Views\\AccountView.cs",
+              "ToolTip": "C:\\Bank-System\\Bank-System\\Views\\AccountView.cs [Design]",
+              "RelativeToolTip": "Bank-System\\Views\\AccountView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:18:08.776Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BranchView.cs [Design]",
+              "DocumentMoniker": "C:\\Bank-System\\Bank-System\\Views\\BranchView.cs",
+              "RelativeDocumentMoniker": "Bank-System\\Views\\BranchView.cs",
+              "ToolTip": "C:\\Bank-System\\Bank-System\\Views\\BranchView.cs [Design]",
+              "RelativeToolTip": "Bank-System\\Views\\BranchView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:18:06.828Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
